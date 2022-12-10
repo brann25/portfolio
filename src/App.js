@@ -25,7 +25,6 @@ function App() {
             <Route exact path ='/cinema' element = {<Page_Project3_Cinema/>}/>
             <Route exact path ='/toystore' element = {<Page_Project3_Toystore/>}/>
             <Route exact path ='/illustration' element = {<Page_Project3_Illustration/>}/>
-      <Page_Landing/>
       </Routes>
       <Footer/>
       </div>
