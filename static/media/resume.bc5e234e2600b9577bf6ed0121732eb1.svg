@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1818.34 461.17">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-family: OpenSans-Bold, 'Open Sans';
+        font-size: 291.16px;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 16.18px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2-2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1-2">
+      <g>
+        <path class="cls-2" d="m395.9,453.08H126.67c-24.78,0-47.81-12.88-60.79-34l-47.23-76.83c-13.81-22.48-14.11-50.76-.74-73.5L150.19,43.32c12.81-21.84,36.23-35.23,61.53-35.23h94.56c24.98,0,48.14,13.04,61.05,34.42l132.19,218.4c12.78,21.09,13.75,47.3,2.56,69.26l-42.57,83.82c-12.16,23.94-36.75,39.05-63.63,39.05l.03.03Z"/>
+        <line class="cls-2" x1="83.55" y1="438.36" x2="335.89" y2="14.56"/>
+        <line class="cls-2" x1="161.19" y1="305.72" x2="510.59" y2="305.72"/>
+        <line class="cls-2" x1="361.77" y1="305.72" x2="261.48" y2="140.73"/>
+      </g>
+    </g>
+    <text class="cls-1" transform="translate(598.55 333.12)"><tspan x="0" y="0">resume</tspan></text>
+  </g>
+</svg>
