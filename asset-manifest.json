@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c066e8dd.css",
-    "main.js": "/static/js/main.7c150d7f.js",
+    "main.css": "/static/css/main.14c66c0e.css",
+    "main.js": "/static/js/main.5f905165.js",
     "static/media/P1_Sol1.jpg": "/static/media/P1_Sol1.20066b1a9bbb15dd9006.jpg",
     "static/media/P1_Prototype_01.png": "/static/media/P1_Prototype_01.3d5ae1ec5d60926e8b9c.png",
     "static/media/howdy.png": "/static/media/howdy.e415d3ba0ef298dc766e.png",
@@ -56,7 +56,6 @@
     "static/media/P1_QOC Diagram-03.png": "/static/media/P1_QOC Diagram-03.97fd64d55ab31f95b0ae.png",
     "static/media/Ole.png": "/static/media/Ole.88bc51f165737b6ffa87.png",
     "static/media/png_umich-banner.png": "/static/media/png_umich-banner.89aed84c5742a593c610.png",
-    "static/media/png_archilens-banner.png": "/static/media/png_archilens-banner.d1f6097038a7210d23a2.png",
     "static/media/P5_Umu_4_Develop.png": "/static/media/P5_Umu_4_Develop.76080641f9aa4f928833.png",
     "static/media/P5_Umu_3_Typo.png": "/static/media/P5_Umu_3_Typo.6253db804f68d7781880.png",
     "static/media/P2_Diagram1.png": "/static/media/P2_Diagram1.160741ed576455984300.png",
@@ -65,6 +64,7 @@
     "static/media/svg_brd_1.svg": "/static/media/svg_brd_1.b4f58297e893ade723154f67ff63cb00.svg",
     "static/media/P2_Diagram2.png": "/static/media/P2_Diagram2.c98dfd38222b3e5b275c.png",
     "static/media/P5_Umu_1_logo_1.png": "/static/media/P5_Umu_1_logo_1.bbffc4d775f2891553af.png",
+    "static/media/png_archilens-banner.svg": "/static/media/png_archilens-banner.694051bc84e083353e3ec7a8ce8f5cbb.svg",
     "static/media/icon1.svg": "/static/media/icon1.692c9138d90afcd13254c34c0d9c423c.svg",
     "static/media/natlib.svg": "/static/media/natlib.a85a0dffb54c9a65981f328ab52fa951.svg",
     "static/media/retail.svg": "/static/media/retail.8959876b3604b34a2d01eba9f9a31415.svg",
@@ -74,11 +74,11 @@
     "static/media/Gdriveicon.svg": "/static/media/Gdriveicon.db49da076cdb3a0f1e13905dafa3b4da.svg",
     "static/media/icon2.svg": "/static/media/icon2.c76fc30a7df89c260be3bf71021e4065.svg",
     "static/media/arrow1.svg": "/static/media/arrow1.06f9c58af867db79768b255db121c9bc.svg",
-    "main.c066e8dd.css.map": "/static/css/main.c066e8dd.css.map",
-    "main.7c150d7f.js.map": "/static/js/main.7c150d7f.js.map"
+    "main.14c66c0e.css.map": "/static/css/main.14c66c0e.css.map",
+    "main.5f905165.js.map": "/static/js/main.5f905165.js.map"
   },
   "entrypoints": [
-    "static/css/main.c066e8dd.css",
-    "static/js/main.7c150d7f.js"
+    "static/css/main.14c66c0e.css",
+    "static/js/main.5f905165.js"
   ]
 }
