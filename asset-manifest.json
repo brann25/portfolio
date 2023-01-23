@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.93c61c7c.css",
-    "main.js": "/static/js/main.04ab1b5e.js",
+    "main.js": "/static/js/main.8e307b74.js",
     "static/media/P1_Sol1.jpg": "/static/media/P1_Sol1.20066b1a9bbb15dd9006.jpg",
     "static/media/P1_Prototype_01.png": "/static/media/P1_Prototype_01.3d5ae1ec5d60926e8b9c.png",
     "static/media/howdy.png": "/static/media/howdy.e415d3ba0ef298dc766e.png",
@@ -16,7 +16,7 @@
     "static/media/P1_Persona-02.jpg": "/static/media/P1_Persona-02.4558d645dc76ab1be392.jpg",
     "static/media/avatar.gif": "/static/media/avatar.ee7be04a1f825d4c08ad.gif",
     "static/media/self.png": "/static/media/self.646be6444e0ff61bf7c1.png",
-    "static/media/photoskills.png": "/static/media/photoskills.0aa9589e9dcf1e67755c.png",
+    "static/media/photoskills.png": "/static/media/photoskills.aaafbdae06d48e60a545.png",
     "static/media/P5_Umu_6-4.png": "/static/media/P5_Umu_6-4.1db4a22d8b58e76e1838.png",
     "static/media/figure_walk.gif": "/static/media/figure_walk.7d2dcfb893812ae5ee55.gif",
     "static/media/P1_Wireframe.png": "/static/media/P1_Wireframe.609b9c95cc1682373af5.png",
@@ -75,10 +75,10 @@
     "static/media/icon2.svg": "/static/media/icon2.c76fc30a7df89c260be3bf71021e4065.svg",
     "static/media/arrow1.svg": "/static/media/arrow1.06f9c58af867db79768b255db121c9bc.svg",
     "main.93c61c7c.css.map": "/static/css/main.93c61c7c.css.map",
-    "main.04ab1b5e.js.map": "/static/js/main.04ab1b5e.js.map"
+    "main.8e307b74.js.map": "/static/js/main.8e307b74.js.map"
   },
   "entrypoints": [
     "static/css/main.93c61c7c.css",
-    "static/js/main.04ab1b5e.js"
+    "static/js/main.8e307b74.js"
   ]
 }
